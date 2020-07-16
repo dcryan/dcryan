@@ -1,4 +1,21 @@
-### Hi there 👋
+
+## Hey there! 👋
+I'm Daniel.
+
+I am a Remote Freelance Software Engineer and I like to party.
+
+**{...} My Stack**
+```json
+{
+  "editors":   ["Vim", "VSCode"],
+  "languages": ["JavaScript", "Python"],
+  "backend":   ["Express", "Django", "Flask"],
+  "frontend":  ["React", "jQuery"],
+  "databases": ["PostgreSQL", "mysql", "sqlite"],
+  "infrastructures": ["AWS", "Google Cloud", "Docker"],
+}
+```
+
 
 <!--
 **dcryan/dcryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
