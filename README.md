@@ -9,9 +9,9 @@ I am a Remote Freelance Software Engineer and I like to party.
 {
   "editors":   ["Vim", "VSCode"],
   "languages": ["JavaScript", "Python"],
-  "backend":   ["Express", "Django", "Flask"],
-  "frontend":  ["React", "jQuery"],
-  "databases": ["PostgreSQL", "mysql", "sqlite"],
+  "backend":   ["Express", "TypeORM"],
+  "frontend":  ["React", "Angular"],
+  "databases": ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
   "infrastructures": ["AWS", "Google Cloud", "Docker"],
 }
 ```
