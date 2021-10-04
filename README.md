@@ -1,3 +1,4 @@
+![dcryan's github stats](https://github-readme-stats.vercel.app/api?username=dcryan&count_private=true&include_all_commits=true&show_icons=true&theme=merko)
 
 ## Hey there! 👋
 I'm Daniel.
@@ -9,16 +10,12 @@ I am a Remote Freelance Software Engineer and I like to party.
 {
   "editors":   ["Vim", "VSCode"],
   "languages": ["JavaScript", "Python"],
-  "backend":   ["Express", "TypeORM"],
+  "backend":   ["Express", "TypeORM", "Django"],
   "frontend":  ["React", "Angular"],
   "databases": ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
   "infrastructures": ["AWS", "Google Cloud", "Docker"],
 }
 ```
-
-
-![dcryan's github stats](https://github-readme-stats.vercel.app/api?username=dcryan&count_private=true&include_all_commits=true&show_icons=true&theme=merko)
-
 
 <!--
 **dcryan/dcryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
