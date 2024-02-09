@@ -4,7 +4,7 @@
 I'm Daniel.
 
 I am a Remote Freelance Software Engineer and I like to travel. I'm currently based in Barcelona 🇪🇸, but I really enjoy being a digital nomad and explore while working.
-I learn by tinkering and doing. I'm an even better debugger than debugger. I love picking up a new framework, API, or package and dissecting to see it's inner workings.
+I learn by tinkering and doing. I'm an even better debugger than developer. I love picking up a new framework, API, or package and dissecting to see it's inner workings.
 
 **{...} My Preferred Stack**
 ```json
