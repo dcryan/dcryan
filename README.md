@@ -14,7 +14,7 @@ I learn by tinkering and doing. I'm an even better debugger than developer. I lo
   "backend":   ["NestJS", "Prisma", "Django"],
   "frontend":  ["React", "NextJS", "Expo"],
   "databases": ["PostgreSQL", "DynamoDB"],
-  "infrastructures": ["AWS", "Google Cloud", "Docker"],
+  "infrastructures": ["AWS", "Docker"],
 }
 ```
 
