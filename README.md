@@ -12,7 +12,7 @@ I learn by tinkering and doing. I'm an even better debugger than developer. I lo
   "editors":   ["Vim"],
   "languages": ["Typescript", "Python"],
   "backend":   ["NestJS", "Prisma", "Django"],
-  "frontend":  ["React", "NextJS"],
+  "frontend":  ["React", "NextJS", "Expo"],
   "databases": ["PostgreSQL", "DynamoDB"],
   "infrastructures": ["AWS", "Google Cloud", "Docker"],
 }
